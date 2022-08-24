@@ -8,8 +8,8 @@
 }
 
 body {
-    background-color: #70c6c7;
-}
+
+    background-color: #000000;
 
 .resume-contents {
     min-height: 100vh;
@@ -22,14 +22,18 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+
+    background-color: #34323d;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
+
+    background-color: #949782;
+
     background-color: #4B6982;
-    border-radius: 0px 60px 0px 0px;
+
 }
 
 .left-section-content{
@@ -38,14 +42,17 @@ body {
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #1B2631;
+
+    border-bottom: 2px solid #1b1b31;
+
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #1B2631;
-}
+
+    border: 8px solid #a6aa92;
+
 
 .name {
     color: #D6DBDF;
@@ -81,6 +88,7 @@ body {
 
 .contact-info ul {
     padding-top: 1.5rem;
+    
 }
 
 .contact-info ul li,
