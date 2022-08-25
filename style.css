@@ -170,6 +170,7 @@ body {
 .awards-contents {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    grid-column-end: inherit;
     padding-bottom: 2rem;
     color: #F1F8FD;
 }
