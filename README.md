@@ -1,2 +1,154 @@
-# devweek.github.io
-curriculo de jornada dev
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinny l</title>
+
+<!-- Google font  -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap" >
+
+
+<!-- font-awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+    <main class="resume-contents">
+        <section class="left-section">
+            <section class="left-section-content">
+                <div class="profile">
+                    <img class="profile-image" src="./img/IMG_20220107_151200.jpg" alt="Profile image">
+                    <p class="name"> Vinicius Pellegrin</p>
+                    <p class="profession"> Analista de Sistemas</p>
+                </div>
+                <div class="contact-info">
+                    <p class="left-title">Contato</p>
+                    <ul>
+                        <li><i class="fa fa-phone"></i>+55 54 991218625</li>
+
+                        <li><i class="fa fa-envelope"><font size="2px"> </i>antonio.vinicius.pellegrin@gmail.com</font></li>
+
+                        <li><i class="fa fa-linkedin"></i>linkedin.com/vinicius</li>
+                        <li><i class="fa fa-github"></i>https://github.com/vinicius-pellegrin</li>
+                    </ul>
+                </div>
+                <div class="skills">
+                    <p class="left-title">Habilidades</p>
+                    <ul>
+                        <li>
+                            <p>HTML,CSS, Sql,Git & Github</p>
+                        </li>
+                        <li>
+                            <p>firebird,mongoDB,postgres</p>
+                        </li>
+                        <li>
+                            <p>Linux</p>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </section>
+        <section class="right-section">
+            <div class="right-section-contents">
+                <section class="about gap">
+                    <div class="right-title">Sobre Mim</div>
+                    <p class="about-me-contents">
+                        Olá sou o Vinicius. <br>
+                        <br>Um pouco mais sobre o que faço
+                        <br>quais são minhas competencias
+                    </p>
+                </section>            
+            <section class="experience gap">
+                <div class="right-title">Experiência</div>
+                <div class="experience-contents">
+                    <div class="exp-left">
+                        <p class="exp-company-name">somasys</p>
+                        <p class="exp-time-period">2018 - até o momento</p>
+                    </div>
+                    <div class="exp-right">
+                        <p class="exp-position">Suporte Técnico, Helpdesk</p>
+                        <p class="exp-description">como Suporte atendia clientes auxiliando em dúvidas na usabilidade do sistema</p>
+                        <p class="exp-position"> Treinamentos/Implantação</p>
+                        <p class="exp-description">Responsável por implantar o sistema em clientes novos, e passar o treinamento juntamente com usabilidade </p>
+                        <p class="exp-position"> Gerente de Projetos</p>
+                        <p class="exp-description">Atualmente Gerencio as equipes de desenvolimento na criação de novas aplicações, ferramentas e produtos </p>
+                    </div>
+                    <div class="exp-left">
+                        <p class="exp-company-name">AICOM</p>
+                        <p class="exp-time-period">2016 - 2018</p>
+                    </div>
+                    <div class="exp-right">
+                        <p class="exp-position">Técnico em Redes Fibra ótica</p>
+                        <p class="exp-description">Responsável por coordenar equipes de campo, para execução de projetos de Cabeamento de Fibra ótica</p>
+                    </div>
+                </div>
+            </section>
+            <section class="education gap">
+                <div class="right-title">Formação Acadêmica</div>
+                <div class="education-contents">
+                    <div class="education-left">
+                        <p class="education-school-name">UPF</p>
+                        <p class="education-time-period">2015-2021</p>
+                    </div>
+                    <div class="education-right">
+                        <p class="education-subject">ADS</p>
+                        <p class="education-desc">Graduado em Análise e desenvolvimento de Sistemas</p>
+                    </div>
+                    <div class="education-left">
+                        <p class="education-school-name">IFRS</p>
+                        <p class="education-time-period">2010-2013</p>
+                    </div>
+                    <div class="education-right">
+                        <p class="education-subject">Técnico em Informática</p>
+                        <p class="education-desc">Curso Técnio em Informática completo sem formação</p>
+                    </div>
+                    <div class="education-left">
+                        <p class="education-school-name">IEEER</p>
+                        <p class="education-time-period">2007-2009</p>
+                    </div>
+                    <div class="education-right">
+                        <p class="education-subject">Técnico em Contabilidade</p>
+                        <p class="education-desc">Formado no Curso Técnio em Contabilidade pelo Instituto Estadual de Educação Edmundo Roewer </p>
+                    </div>
+                </div>
+            </section>
+            <section class="awards gap">
+                <div class="right-title">Cursos</div>
+                <div class="awards-contents">
+                    <div class="awards-left">
+                        <p class="awards-company-name">--</p>
+                        <p class="awards-time-period">---</p>
+                    </div>
+                    <div class="awards-right">
+                        <p class="awards-name">--</p>
+                        <p class="awards-desc">---</p>
+                    </div>
+                    <div class="awards-left">
+                        
+                    </div>
+                    <div class="awards-right">
+                        <p class="awards-name">--</p>
+                        <p class="awards-desc">---</p>
+                    </div>
+                </div>
+
+
+            </section>
+        </div>
+        </section>
+
+    </main>
+
+
+</body>
+
+</html>
